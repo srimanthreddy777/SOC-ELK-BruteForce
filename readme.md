@@ -25,7 +25,7 @@ The goal is to detect and analyze these events using native Windows logs and map
 - Indicates repeated failed logon attempts (simulated)
 
 📸 Screenshot:  
-![Brute Force Logon](./screenshots/01-brute-force-failed-logon.png)
+![Brute Force Logon](./screenshots/1-brute-force-failed-logon.png)
 > 🔎 MITRE ATT&CK: `T1110.001` – Brute Force: Password Guessing  
 > [MITRE Link](https://attack.mitre.org/techniques/T1110/001/)
 
