@@ -25,7 +25,7 @@ The goal is to detect and analyze these events using native Windows logs and map
 - Indicates repeated failed logon attempts (simulated)
 
 📸 Screenshot:  
-![Brute Force Logon](./screenshots/1-brute-force-failed-logon.png)
+![Brute Force Logon](1-brute-force-failed-logon.png)
 > 🔎 MITRE ATT&CK: `T1110.001` – Brute Force: Password Guessing  
 > [MITRE Link](https://attack.mitre.org/techniques/T1110/001/)
 
@@ -38,7 +38,7 @@ The goal is to detect and analyze these events using native Windows logs and map
 - Screenshot shows PowerShell command window
 
 📸 Screenshot:  
-![PowerShell Execution](./screenshots/02-powershell-command.png)
+![PowerShell Execution](02-powershell-command.png)
 > 🔎 MITRE ATT&CK: `T1059.001` – PowerShell Execution  
 > [MITRE Link](https://attack.mitre.org/techniques/T1059/001/)
 
